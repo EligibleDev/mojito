@@ -109,7 +109,7 @@ const Hero = () => {
                     playsInline
                     preload="auto"
                     ref={videoRef}
-                    src="/videos/input.mp4"
+                    src="/videos/output.mp4"
                 ></video>
             </div>
         </>
