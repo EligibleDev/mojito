@@ -21,7 +21,7 @@ const Footer = () => {
                 yPercent: 100,
                 stagger: 0.02,
             })
-            .from("#foter h3, #contact p", {
+            .from("#footer h3, #footer p", {
                 opacity: 0,
                 yPercent: 100,
                 stagger: 0.02,
